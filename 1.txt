@@ -1,2 +1,2 @@
 hello
-พำหำะ
+reset

@@ -1,2 +1,2 @@
 hello
-reset
+commit 2
